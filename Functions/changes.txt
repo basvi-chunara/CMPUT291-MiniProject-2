@@ -1,0 +1,2 @@
+- fixing hashtags to not show Johndoe when searching john for both hashtags and keywords
+- when the apostrophe is part of the keyword
